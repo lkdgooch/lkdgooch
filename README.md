@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lkdgooch
-- 👀 I’m interested in statistical analyses and modeling
+- 👋 Hi, I’m Lindsey!
+- 👀 I’m interested in statistical analysis and modeling
 - ✨ I’m currently learning about ML/AI
 
 <!---
