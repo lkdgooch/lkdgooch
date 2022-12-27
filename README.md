@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lindsey!
-- 👀 I’m interested in statistical analysis and modeling
-- ✨ I’m currently learning about ML/AI
+- I'm a data scientist
+- I love learning about new data science and machine learning engineering tools & techniques
 
 <!---
 lkdgooch/lkdgooch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
